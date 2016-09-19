@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/nupin/git/WiFiDirectDemo/app/build/intermediates/res/merged/debug/layout/device_list.xml",
+        "source": "/Users/nupin/git/WiFiDirectDemo/app/src/main/res/layout/device_list.xml"
+    },
+    {
+        "merged": "/Users/nupin/git/WiFiDirectDemo/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/nupin/git/WiFiDirectDemo/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/nupin/git/WiFiDirectDemo/app/build/intermediates/res/merged/debug/layout/row_devices.xml",
+        "source": "/Users/nupin/git/WiFiDirectDemo/app/src/main/res/layout/row_devices.xml"
+    },
+    {
+        "merged": "/Users/nupin/git/WiFiDirectDemo/app/build/intermediates/res/merged/debug/layout/device_detail.xml",
+        "source": "/Users/nupin/git/WiFiDirectDemo/app/src/main/res/layout/device_detail.xml"
+    }
+]

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/nupin/git/WiFiDirectDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d93d01c39216010757808dec8b154adcd689ffc6">
+        <dex dex="/Users/nupin/git/WiFiDirectDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_098dacc3eef242b5e2c8afbdb24eb647e7abd166/classes.dex" />
+    </item>
+    <item
+        jar="/Users/nupin/git/WiFiDirectDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="97e65fef0a008ce3a46bef07ca31d81b513de047">
+        <dex dex="/Users/nupin/git/WiFiDirectDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_90c2131fdd629f8665375e062d2b6a1ab83384d7/classes.dex" />
+    </item>
+
+</items>
