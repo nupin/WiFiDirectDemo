@@ -1,33 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86_64,x86"
-    api-level="22"
-    density="420dpi"
+    abi="x86"
+    api-level="23"
+    density="xhdpi"
     format="7"
-    timestamp="1474213673971683000"
-    token="-7184712791507784686" >
+    timestamp="985756595351128"
+    token="-8002291999678519663" >
 
     <task
         name="javac"
-        duration="265" />
+        duration="687" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="201" />
+        duration="184" />
     <task
         name="verifier"
-        duration="12" />
+        duration="69" />
 
     <artifact
-        location="/Users/nupin/git/WiFiDirectDemo/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="C:\Users\npillai\AndroidStudioProjects\WiFiDirectDemo\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="C:\Users\npillai\AndroidStudioProjects\WiFiDirectDemo\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+        type="DEX" />
 
-    <build timestamp="1474213673971683000" >
+    <build timestamp="984831287505206" >
         <artifact
-            location="/Users/nupin/git/WiFiDirectDemo/app/build/outputs/apk/app-debug.apk"
+            location="C:\Users\npillai\AndroidStudioProjects\WiFiDirectDemo\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="985756595351128" >
+        <artifact
+            location="C:\Users\npillai\AndroidStudioProjects\WiFiDirectDemo\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="C:\Users\npillai\AndroidStudioProjects\WiFiDirectDemo\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

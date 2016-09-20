@@ -1,0 +1,8 @@
+CHANGED,C:\Users\npillai\AndroidStudioProjects\WiFiDirectDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\wifidirect\WiFiDirectActivity$2$override.class
+CHANGED,C:\Users\npillai\AndroidStudioProjects\WiFiDirectDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\wifidirect\WiFiDirectActivity$4$override.class
+CHANGED,C:\Users\npillai\AndroidStudioProjects\WiFiDirectDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\wifidirect\WiFiDirectActivity$override.class
+CHANGED,C:\Users\npillai\AndroidStudioProjects\WiFiDirectDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\wifidirect\WiFiDirectActivity$1$override.class
+CHANGED,C:\Users\npillai\AndroidStudioProjects\WiFiDirectDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\npillai\AndroidStudioProjects\WiFiDirectDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\wifidirect\WiFiDirectBroadcastReceiver$override.class
+CHANGED,C:\Users\npillai\AndroidStudioProjects\WiFiDirectDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\wifidirect\DeviceListFragment$override.class
+CHANGED,C:\Users\npillai\AndroidStudioProjects\WiFiDirectDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\android\wifidirect\WiFiDirectActivity$3$override.class

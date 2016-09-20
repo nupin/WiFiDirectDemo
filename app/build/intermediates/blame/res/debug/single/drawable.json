@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/Users/nupin/git/WiFiDirectDemo/app/build/intermediates/res/merged/debug/drawable/machine.png",
-        "source": "/Users/nupin/git/WiFiDirectDemo/app/src/main/res/drawable/machine.png"
+        "merged": "C:\\Users\\npillai\\AndroidStudioProjects\\WiFiDirectDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\section_header.xml",
+        "source": "C:\\Users\\npillai\\AndroidStudioProjects\\WiFiDirectDemo\\app\\src\\main\\res\\drawable\\section_header.xml"
     },
     {
-        "merged": "/Users/nupin/git/WiFiDirectDemo/app/build/intermediates/res/merged/debug/drawable/details_view.xml",
-        "source": "/Users/nupin/git/WiFiDirectDemo/app/src/main/res/drawable/details_view.xml"
+        "merged": "C:\\Users\\npillai\\AndroidStudioProjects\\WiFiDirectDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\machine.png",
+        "source": "C:\\Users\\npillai\\AndroidStudioProjects\\WiFiDirectDemo\\app\\src\\main\\res\\drawable\\machine.png"
     },
     {
-        "merged": "/Users/nupin/git/WiFiDirectDemo/app/build/intermediates/res/merged/debug/drawable/section_header.xml",
-        "source": "/Users/nupin/git/WiFiDirectDemo/app/src/main/res/drawable/section_header.xml"
+        "merged": "C:\\Users\\npillai\\AndroidStudioProjects\\WiFiDirectDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\details_view.xml",
+        "source": "C:\\Users\\npillai\\AndroidStudioProjects\\WiFiDirectDemo\\app\\src\\main\\res\\drawable\\details_view.xml"
     }
 ]
